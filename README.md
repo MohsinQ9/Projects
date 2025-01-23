@@ -39,7 +39,7 @@ This project is a comprehensive exploration of data mining and business intellig
 ## Key Technologies and Tools
 - **Microsoft Power BI**: For data visualization and dashboard creation.
 - **RapidMiner**: For implementing data mining techniques.
-- **Python/Excel** (if applicable): For preprocessing and analyzing data.
+- **Python**: For preprocessing and analyzing data.
 
 ---
 
