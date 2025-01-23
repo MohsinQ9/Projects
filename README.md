@@ -58,6 +58,3 @@ This project was a collaborative effort, with team members contributing to diffe
 ## License
 This project is distributed for educational purposes. Please ensure proper citation if referencing this work.
 
----
-
-For any questions or further details, feel free to contact the team.
